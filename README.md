@@ -19,6 +19,9 @@
 [![Jest Badge](https://img.shields.io/badge/Jest-936F79?style=for-the-badge&logo=jest&color=936F79)](#)
 
 <br/>
-<br/>
+
+### My stats ⭐
 
 ![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact)
