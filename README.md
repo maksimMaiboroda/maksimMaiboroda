@@ -17,3 +17,8 @@
 [![Vue Badge](https://img.shields.io/badge/Vue.js-32475B?style=for-the-badge&logo=vuedotjs&color=32475B)](#)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-161E26?style=for-the-badge&logo=graphql&logoColor=F6009C&color=161E26)](#)
 [![Jest Badge](https://img.shields.io/badge/Jest-936F79?style=for-the-badge&logo=jest&color=936F79)](#)
+
+<br/>
+<br/>
+
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent)
