@@ -24,9 +24,6 @@ I'm Maksym Maiboroda a Front End Developer with more than 4 years of experience.
 
 ### My stats ⭐
 
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact" />
+[![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent)](#)
 
-![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact)](#)
