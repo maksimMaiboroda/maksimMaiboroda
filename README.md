@@ -20,10 +20,3 @@ I'm Maksym Maiboroda a Front End Developer with more than 4 years of experience.
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-161E26?style=for-the-badge&logo=graphql&logoColor=F6009C&color=161E26)](#)
 [![Jest Badge](https://img.shields.io/badge/Jest-936F79?style=for-the-badge&logo=jest&color=936F79)](#)
 
-<br/>
-
-### My stats ⭐
-
-[![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&theme=transparent)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact)](#)
