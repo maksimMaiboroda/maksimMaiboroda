@@ -1,6 +1,6 @@
 ### Hi, I'm Maksym 👋
 
-I'm Maksym Maiboroda a Front End Developer with more than 4 years of experience.
+I'm Maksym Maiboroda a Front End Developer.
 
 :mailbox: Reach me out!
 
