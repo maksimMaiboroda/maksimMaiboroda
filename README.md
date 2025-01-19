@@ -4,7 +4,7 @@ I'm Maksym Maiboroda a Front End Developer.
 
 :mailbox: Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0177B5?style=for-the-badge&logo=linkedin&color=0177B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmax-mayboroda)](https://www.linkedin.com/in/max-mayboroda/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0177B5?style=for-the-badge&logo=linkedin&color=0177B5&link=https://www.linkedin.com/in/max-maiboroda/)](https://www.linkedin.com/in/max-maiboroda/)
 [![Static Badge](https://img.shields.io/badge/Telegram-33A9E1?style=for-the-badge&logo=telegram&logoColor=white&color=33A9E1)](https://t.me/majboroda)
 [![Static Badge](https://img.shields.io/badge/Gmail-EA4336?style=for-the-badge&logo=gmail&logoColor=white&color=EA4336)](mailto:maksym.majboroda@gmail.com)
 
