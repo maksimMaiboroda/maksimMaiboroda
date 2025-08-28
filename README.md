@@ -1,6 +1,6 @@
 ### Hi, I'm Maksym 👋
 
-I'm Maksym Maiboroda a Front End Developer.
+I'm a Front End Developer.
 
 :mailbox: Reach me out!
 
