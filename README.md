@@ -94,7 +94,7 @@
 ## 💼 Professional Experience
 
 <details>
-<summary><b>🏢 Product Company (NDA) · Frontend Developer</b> &nbsp;|&nbsp; <code>Apr 2025 – Feb 2026</code></summary>
+<summary><b>🏢 Product Company (NDA) · Frontend Developer</b> &nbsp;|&nbsp; <code>Apr 2025 – Present</code></summary>
 <br>
 
 **📊 Spreadsheet Web Component** — High-performance spreadsheet-like table with virtualization for large datasets
