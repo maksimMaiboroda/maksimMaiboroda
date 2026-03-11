@@ -88,11 +88,6 @@
 
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/majboroda/majboroda/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- Profile Views -->
 <div align="center">
   
