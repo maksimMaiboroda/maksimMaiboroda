@@ -26,7 +26,7 @@
 
 <br clear="right"/>
 
----
+--
 
 <!-- Connect Section -->
 ## 📬 Connect With Me
@@ -39,7 +39,7 @@
 
 </div>
 
----
+--
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
