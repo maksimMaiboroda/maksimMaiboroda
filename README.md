@@ -88,38 +88,6 @@
 
 </div>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=majboroda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majboroda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=majboroda&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- Education -->
-## 🎓 Education
-
-**Master of Mathematics** — Oleksandr Dovzhenko Hlukhiv National Pedagogical University
-
-`Mathematician` `Teacher of Mathematics` `Teacher of Informatics` `Educational Computer Systems Administrator`
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=majboroda&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&area_color=00C9FF&hide_border=true" width="95%"/>
-
-</div>
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/majboroda/majboroda/output/github-snake-dark.svg" alt="Snake animation" />
