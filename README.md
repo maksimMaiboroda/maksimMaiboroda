@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Maksym%20Maiboroda!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20(React%20/%20TypeScript)&descAlignY=55&descAlign=50" />
-</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/max-maiboroda/"><img src="https://img.shields.io/badge/LinkedIn-0177B5?style=for-the-badge&logo=linkedin&color=0177B5" alt="LinkedIn" /></a>
-  <a href="https://t.me/majboroda"><img src="https://img.shields.io/badge/Telegram-33A9E1?style=for-the-badge&logo=telegram&logoColor=white&color=33A9E1" alt="Telegram" /></a>
-  <a href="mailto:maksym.majboroda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4336?style=for-the-badge&logo=gmail&logoColor=white&color=EA4336" alt="Gmail" /></a>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0177B5,100:00C9FF&height=220&section=header&text=Maksym%20Maiboroda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Frontend+Development;React+%7C+Vue+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Enthusiast;Performance+Optimization+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
+</a>
+
+</div>
 
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
