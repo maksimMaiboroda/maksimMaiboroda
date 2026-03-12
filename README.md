@@ -1,95 +1,101 @@
 <div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0177B5,100:00C9FF&height=220&section=header&text=Maksym%20Maiboroda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Frontend+Development;React+%7C+Vue+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Enthusiast;Performance+Optimization+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Maksym%20Maiboroda!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&desc=Frontend%20Developer%20(React%20/%20TypeScript)&descAlignY=55&descAlign=50" />
 </div>
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/max-maiboroda/"><img src="https://img.shields.io/badge/LinkedIn-0177B5?style=for-the-badge&logo=linkedin&color=0177B5" alt="LinkedIn" /></a>
+  <a href="https://t.me/majboroda"><img src="https://img.shields.io/badge/Telegram-33A9E1?style=for-the-badge&logo=telegram&logoColor=white&color=33A9E1" alt="Telegram" /></a>
+  <a href="mailto:maksym.majboroda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4336?style=for-the-badge&logo=gmail&logoColor=white&color=EA4336" alt="Gmail" /></a>
+</p>
 
-> Experienced Frontend Developer with **5+ years** of experience in building scalable, maintainable, and user-centric web applications. Strong expertise in **micro-frontend architecture**, **performance optimization** for large datasets, and **complex UI systems**.
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I'm an experienced **Frontend Developer** with 5+ years of experience building scalable, maintainable, and user-centric web applications. Based in Kyiv, Ukraine 🇺🇦.
 
-- 🏠 Based in **Kyiv, Ukraine**
-- 💼 Frontend Developer specializing in **React & TypeScript**
-- 🎓 Master of Mathematics
-- 🧩 Passionate about **micro-frontend architecture**
-- ⚡ Performance optimization through **virtualization**
-- 🌐 Languages: **English** (Upper-Intermediate) · **Ukrainian** (Advanced)
+- 🏗️ Strong expertise in **Micro-frontend Architecture** and core systems building.
+- ⚡ Focused on **performance optimization** for large datasets and complex UI applications.
+- 🎯 Proven ability to deliver features end-to-end and collaborate effectively with stakeholders.
 
-<br clear="right"/>
+---
 
-<!-- Connect Section -->
-## 📬 Connect With Me
+## 💻 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+</p>
+
+### State Management & APIs
+<p>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" /> 
+  <img src="https://img.shields.io/badge/Pinia-F6D365?style=for-the-badge&logo=vuedotjs&logoColor=black" alt="Pinia" />
+  <img src="https://img.shields.io/badge/Vuex-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vuex" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### UI, Styling & Architecture
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Testing-Jest_%7C_Playwright-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Testing" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### 🧑‍💻 Frontend Developer | *Product Company (NDA)*
+<p><em>Apr 2025 – Feb 2026 | Kyiv, Ukraine</em></p>
+
+- **Spreadsheet Web Component**: Engineered a high-performance, spreadsheet-like table leveraging virtualization (`react-virtuoso`, `react-window`) to handle large datasets effectively using *React, TypeScript, Vite, MobX, and SignalR*.
+- **Workflow Automation Module**: Conceptualized and delivered an interactive flow editor (with nodes, edges, validations, and templates) as a remote micro-frontend. Deployed using *Webpack Module Federation, React Flow, Zustand, and Firebase*.
+
+### 🧑‍💻 Frontend Developer | *Kultprosvet*
+<p><em>Sep 2024 – Apr 2025 | Dnipro, Ukraine</em></p>
+
+- **Real Estate Search Platform**: Built a sophisticated platform using *Nuxt.js, Vue.js, GraphQL, Vuetify, and Pinia*.
+- **SPA & Internal Systems**: Developed diverse applications ranging from customized SPA platforms to complete *Vuexy*-based Admin Panels and responsive interactive Landing Pages.
+
+### 🧑‍💻 Frontend Developer | *UDS Systems*
+<p><em>Dec 2021 – Sep 2024 | Kyiv, Ukraine</em></p>
+
+- Orchestrated the frontend lifecycle for a comprehensive **ERP System** utilizing *React, TypeScript, Redux Toolkit, and Material-UI*.
+- Developed an **Integration Platform** prioritizing robust state management and modular architecture with *Nuxt.js, Vue.js, and Ant Design*.
+
+### 🧑‍💻 Frontend Developer | *WebbyLab*
+<p><em>Sep 2020 – Jan 2021 | Kyiv, Ukraine</em></p>
+
+- Built a custom **Mobile SDK** with *React, Redux Toolkit, GraphQL* utilizing *Jest* and *Enzyme* for heavy reliability testing.
+- Delivered intuitive Single Page Applications matching strict JSON Schema and Material-UI requirements.
+
+---
+
+## 🏆 Key Achievements
+
+- 🏅 **End-to-End Ownership**: Led the frontend architecture and timely delivery of an overarching workflow automation module. 
+- 🧩 **Advanced Micro-Frontends**: Pioneered the delivery of complex decoupled modules strictly via Webpack Module Federation.
+- 🚀 **Performance Optimization**: Spearheaded virtualization adoption for UI instances rendering large datasets exponentially faster.
+
+---
+
+## 🎓 Education
+
+🎓 **Master of Mathematics**  
+*Oleksandr Dovzhenko Hlukhiv National Pedagogical University* - Hlukhiv, Ukraine (2011 - 2017)  
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-maiboroda/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/majboroda)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksym.majboroda@gmail.com)
-
+  <em>Always eager to learn modern technologies and build things that innovate the web!</em><br>
+  <b>Let's connect and create something amazing together.</b>
 </div>
-
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-
-### State Management
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
-
-### UI & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-
-### Tools & Build
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-### Other
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=majboroda&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0177B5,100:00C9FF&height=120&section=footer" width="100%"/>
