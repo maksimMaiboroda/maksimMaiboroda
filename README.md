@@ -1,95 +1,78 @@
-<div align="center">
+# Maksym Maiboroda
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0177B5,100:00C9FF&height=220&section=header&text=Maksym%20Maiboroda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
+**Frontend Developer** · React · TypeScript · Micro-frontend architecture
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=600&lines=5%2B+Years+of+Frontend+Development;React+%7C+Vue+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Enthusiast;Performance+Optimization+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</a>
+Five years shipping production web apps — from Figma to CI/CD. I build complex,
+data-heavy interfaces that stay fast, and architect frontends that teams can ship
+independently.
 
-</div>
+<!-- TODO: replace the portfolio URL below with the live link after deploying -->
+[![Portfolio](https://img.shields.io/badge/View_my_portfolio-FF5722?style=flat-square&logoColor=white)](https://example.com/portfolio)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=FF5722)](https://www.linkedin.com/in/max-maiboroda/)
+[![Telegram](https://img.shields.io/badge/Telegram-1A1A1A?style=flat-square&logo=telegram&logoColor=FF5722)](https://t.me/majboroda)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=FF5722)](mailto:maksym.majboroda@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FF5722)](https://github.com/maksimMaiboroda)
 
-<!-- About Me Section -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+---
 
-> Experienced Frontend Developer with **5+ years** of experience in building scalable, maintainable, and user-centric web applications. Strong expertise in **micro-frontend architecture**, **performance optimization** for large datasets, and **complex UI systems**.
+## About
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 📍 Based in **Kyiv, Ukraine** · open to remote (EU / US timezones)
+- 🎓 **MSc Mathematics** — Mathematics & Computer Science
+- 🧩 Focused on **micro-frontend architecture** and **performance for large datasets**
+- 🌐 **Ukrainian** (native) · **English** (B2 / Upper-Intermediate)
 
-- 🏠 Based in **Kyiv, Ukraine**
-- 💼 Frontend Developer specializing in **React & TypeScript**
-- 🎓 Master of Mathematics
-- 🧩 Passionate about **micro-frontend architecture**
-- ⚡ Performance optimization through **virtualization**
-- 🌐 Languages: **English** (Upper-Intermediate) · **Ukrainian** (Advanced)
+## Selected work
 
-<br clear="right"/>
+- **Interactive workflow editor** — built with React + React Flow: drag-and-drop nodes,
+  edge validation, properties panels, and reusable templates. Became a core module used
+  across an enterprise platform.
+- **10,000+ row data tables, virtualized** — implemented `react-virtuoso` to kill UI
+  freezes and enable real-time cell editing on data-heavy grids.
+- **Independently-deployable micro-frontend** — shipped the workflow module via Webpack 5
+  Module Federation, enabling autonomous team releases without full-app redeploys.
+- **4 frontend products from scratch in 8 months** — real estate, travel, and admin
+  domains: architecture decisions, CI/CD setup, and tech-stack selection.
 
-<!-- Connect Section -->
-## 📬 Connect With Me
+<!-- TODO: point this at a hosted CV (PDF) or the CV file in the repo -->
+*Full history and references → [CV](https://example.com/cv)*
 
-<div align="center">
+## Tech stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-maiboroda/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/majboroda)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maksym.majboroda@gmail.com)
+**Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=FF5722)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat-square&logo=typescript&logoColor=FF5722)
+![HTML5](https://img.shields.io/badge/HTML5-1A1A1A?style=flat-square&logo=html5&logoColor=FF5722)
+![SASS](https://img.shields.io/badge/SASS-1A1A1A?style=flat-square&logo=sass&logoColor=FF5722)
 
-</div>
+**Frameworks**
+![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=FF5722)
+![Vue.js](https://img.shields.io/badge/Vue.js-1A1A1A?style=flat-square&logo=vuedotjs&logoColor=FF5722)
+![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=flat-square&logo=nextdotjs&logoColor=FF5722)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-1A1A1A?style=flat-square&logo=nuxtdotjs&logoColor=FF5722)
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+**State**
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-1A1A1A?style=flat-square&logo=redux&logoColor=FF5722)
+![Zustand](https://img.shields.io/badge/Zustand-1A1A1A?style=flat-square&logo=react&logoColor=FF5722)
+![MobX](https://img.shields.io/badge/MobX-1A1A1A?style=flat-square&logo=mobx&logoColor=FF5722)
+![Pinia](https://img.shields.io/badge/Pinia-1A1A1A?style=flat-square&logo=vuedotjs&logoColor=FF5722)
 
-<div align="center">
+**Specialized**
+![React Flow](https://img.shields.io/badge/React_Flow-1A1A1A?style=flat-square&logo=react&logoColor=FF5722)
+![Module Federation](https://img.shields.io/badge/Module_Federation-1A1A1A?style=flat-square&logo=webpack&logoColor=FF5722)
+![react-virtuoso](https://img.shields.io/badge/react--virtuoso-1A1A1A?style=flat-square&logo=react&logoColor=FF5722)
+![dnd-kit](https://img.shields.io/badge/dnd--kit-1A1A1A?style=flat-square&logo=react&logoColor=FF5722)
+![GraphQL](https://img.shields.io/badge/GraphQL-1A1A1A?style=flat-square&logo=graphql&logoColor=FF5722)
+![WebSocket](https://img.shields.io/badge/WebSocket-1A1A1A?style=flat-square&logo=socketdotio&logoColor=FF5722)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Testing & build**
+![Jest](https://img.shields.io/badge/Jest-1A1A1A?style=flat-square&logo=jest&logoColor=FF5722)
+![Testing Library](https://img.shields.io/badge/Testing_Library-1A1A1A?style=flat-square&logo=testinglibrary&logoColor=FF5722)
+![Playwright](https://img.shields.io/badge/Playwright-1A1A1A?style=flat-square&logo=playwright&logoColor=FF5722)
+![Vite](https://img.shields.io/badge/Vite-1A1A1A?style=flat-square&logo=vite&logoColor=FF5722)
+![Webpack](https://img.shields.io/badge/Webpack-1A1A1A?style=flat-square&logo=webpack&logoColor=FF5722)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+---
 
-### State Management
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
-
-### UI & Styling
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-
-### Tools & Build
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Testing
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
-
-### Other
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
-<!-- Profile Views -->
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=majboroda&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0177B5,100:00C9FF&height=120&section=footer" width="100%"/>
+**Open to remote roles · EU / US timezones** — <!-- TODO: hosted CV link --> [see the full CV](https://example.com/cv).
