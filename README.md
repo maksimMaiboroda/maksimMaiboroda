@@ -1,17 +1,10 @@
-<div align="center">
+# Maksym Maiboroda
 
-<!-- Theme-aware header banner (swaps with GitHub light/dark mode). No motion, recolored to ink + electric-orange. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0D0D0D,100:FF5722&height=190&section=header&text=Maksym%20Maiboroda&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=64&descSize=16&descColor=FFAA88">
-  <img alt="Maksym Maiboroda — Frontend Developer" src="https://capsule-render.vercel.app/api?type=soft&color=0:FF5722,100:FFA07A&height=190&section=header&text=Maksym%20Maiboroda&fontSize=46&fontColor=1A1A1A&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=64&descSize=16&descColor=1A1A1A" width="100%">
-</picture>
+**Frontend Developer** · React · TypeScript · Micro-frontend architecture
 
-<!-- Animated typing line -->
-<a href="https://github.com/maksimMaiboroda">
-  <img alt="What I do" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF5722&center=true&vCenter=true&width=560&lines=React+%C2%B7+TypeScript+%C2%B7+Micro-frontends;10K-row+UIs+that+stay+fast;Figma+%E2%86%92+CI%2FCD%2C+owned+end-to-end" />
-</a>
-
-<br/>
+Five years shipping production web apps — from Figma to CI/CD. I build complex,
+data-heavy interfaces that stay fast, and architect frontends that teams can ship
+independently.
 
 <!-- TODO: replace the portfolio URL below with the live link after deploying -->
 [![Portfolio](https://img.shields.io/badge/View_my_portfolio-FF5722?style=flat-square&logoColor=white)](https://example.com/portfolio)
@@ -20,8 +13,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1A1A1A?style=flat-square&logo=telegram&logoColor=FF5722)](https://t.me/majboroda)
 [![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=FF5722)](mailto:maksym.majboroda@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=flat-square&logo=github&logoColor=FF5722)](https://github.com/maksimMaiboroda)
-
-</div>
 
 ---
 
@@ -34,56 +25,20 @@
 
 ## Selected work
 
-<sub>Click any item to expand.</sub>
-
-<details>
-<summary><b>Interactive workflow editor</b> — core platform module, built with React + React Flow</summary>
-
-<br/>
-
-Drag-and-drop nodes, edge validation, properties panels, and reusable templates. Grew into
-a core module used across an enterprise platform.
-
-</details>
-
-<details>
-<summary><b>10,000+ row data tables, virtualized</b> — zero UI freezes, real-time editing</summary>
-
-<br/>
-
-Implemented `react-virtuoso` to render data-heavy grids without freezing the UI, enabling
-real-time cell editing on tables of 10K+ rows.
-
-</details>
-
-<details>
-<summary><b>Independently-deployable micro-frontend</b> — autonomous team releases</summary>
-
-<br/>
-
-Shipped the workflow module via Webpack 5 Module Federation, so the team could release it
-independently — no full-app redeploys.
-
-</details>
-
-<details>
-<summary><b>4 frontend products from scratch in 8 months</b> — real estate · travel · admin</summary>
-
-<br/>
-
-Owned architecture decisions, CI/CD setup, and tech-stack selection across all four.
-
-</details>
+- **Interactive workflow editor** — built with React + React Flow: drag-and-drop nodes,
+  edge validation, properties panels, and reusable templates. Became a core module used
+  across an enterprise platform.
+- **10,000+ row data tables, virtualized** — implemented `react-virtuoso` to kill UI
+  freezes and enable real-time cell editing on data-heavy grids.
+- **Independently-deployable micro-frontend** — shipped the workflow module via Webpack 5
+  Module Federation, enabling autonomous team releases without full-app redeploys.
+- **4 frontend products from scratch in 8 months** — real estate, travel, and admin
+  domains: architecture decisions, CI/CD setup, and tech-stack selection.
 
 <!-- TODO: point this at a hosted CV (PDF) or the CV file in the repo -->
-<sub>Full history and references → <a href="https://example.com/cv">CV</a></sub>
+*Full history and references → [CV](https://example.com/cv)*
 
 ## Tech stack
-
-<details>
-<summary><b>Full tech stack</b> — click to expand</summary>
-
-<br/>
 
 **Core**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=FF5722)
@@ -118,23 +73,7 @@ Owned architecture decisions, CI/CD setup, and tech-stack selection across all f
 ![Vite](https://img.shields.io/badge/Vite-1A1A1A?style=flat-square&logo=vite&logoColor=FF5722)
 ![Webpack](https://img.shields.io/badge/Webpack-1A1A1A?style=flat-square&logo=webpack&logoColor=FF5722)
 
-</details>
-
-## GitHub activity
-
-<div align="center">
-
-<img height="160" alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=maksimMaiboroda&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF5722&icon_color=FF5722&text_color=EDEDED" />
-<img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksimMaiboroda&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF5722&text_color=EDEDED" />
-
-<img height="160" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=maksimMaiboroda&hide_border=true&background=0D0D0D&ring=FF5722&fire=FF5722&currStreakLabel=FF5722&sideLabels=EDEDED&dates=8B8B8B&stroke=FF5722" />
-
-</div>
-
 ---
-
-<div align="center">
 
 **Open to remote roles · EU / US timezones** — <!-- TODO: hosted CV link --> [see the full CV](https://example.com/cv).
 
-</div>
